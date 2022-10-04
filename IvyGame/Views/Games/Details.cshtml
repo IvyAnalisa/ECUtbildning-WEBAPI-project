@@ -1,0 +1,52 @@
+﻿@using IvyGame.Models.Domain
+
+
+
+@model GameDetailsViewModel
+
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Details";
+
+}
+
+
+
+@foreach (var game in Model.GameDetails)
+{
+
+    <div class="card">
+
+        <div class="card-body">
+
+
+            <partial name="_DetailsCard" model="game" />
+
+        </div>
+
+    </div>
+}
+
+
+
+<h1 class="text-center">LEADER BOARD</h1>
+
+
+@foreach (var highScore in Model.SortByScore)
+{
+
+    <div class="card">
+
+        <div class="card-body">
+
+
+            <partial name="_TopScore" model="highScore" />
+
+        </div>
+
+    </div>
+}

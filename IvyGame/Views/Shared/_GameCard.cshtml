@@ -1,0 +1,19 @@
+﻿@using IvyGame.Models.ViewModels
+@model IvyGame.Models.Domain.HighScore
+
+
+<div class="card">
+
+    <div class="card-body" style="background-color:lightyellow">
+
+        <a href="/games/@Model.GameId">
+            <h1 class="card-title">@Model.Game.GameName</h1>
+        </a>
+
+        <h2 class="card-text">@Model.Player, @Model.Date</h2>
+        <h1 class="text-right" style="text-align:right">@Model.Score</h1>
+
+
+    </div>
+
+</div>

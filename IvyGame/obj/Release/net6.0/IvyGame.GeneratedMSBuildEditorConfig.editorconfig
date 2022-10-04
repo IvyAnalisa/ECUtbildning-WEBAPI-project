@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IvyGame
+build_property.RootNamespace = IvyGame
+build_property.ProjectDir = C:\Users\ivyan\Source\Repos\ECUtbildning-WebAPI-project\IvyGame\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ivyan\Source\Repos\ECUtbildning-WebAPI-project\IvyGame
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Games/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/HighScores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlnaFNjb3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/HighScores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlnaFNjb3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/HighScores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlnaFNjb3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/HighScores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlnaFNjb3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/HighScores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlnaFNjb3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/_DetailsCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZXRhaWxzQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/_GameCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HYW1lQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/_TopScore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub3BTY29yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ivyan/Source/Repos/ECUtbildning-WebAPI-project/IvyGame/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n6xjrzw4ag

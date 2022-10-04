@@ -1,0 +1,27 @@
+﻿@using IvyGame.Models.ViewModels
+
+
+@model HomeIndexViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2><a href="/highscores/new">Register HighScore</a></h2>
+@*<h2><a href="/highscores/newgame">Register New Game</a></h2>*@
+
+<h1 class="display-4">Welcome</h1>
+
+
+
+
+@foreach (var highscore in Model.DisplayOnHomePage)
+{
+
+    <partial name="_GameCard" model="highscore" />
+
+}

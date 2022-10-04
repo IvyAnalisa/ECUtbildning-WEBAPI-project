@@ -1,0 +1,17 @@
+﻿@using IvyGame.Models.ViewModels
+@model IvyGame.Models.Domain.Game
+
+
+
+
+<div class="row mb-4">
+    <div class="col-7">
+        <h1 class="mb-3">Name:@Model.GameName</h1>
+        <h2 class="mb-3">Year:@Model.Year</h2>
+        <h2 class=" mb-3">Genre:@Model.Genre</h2>
+        <h2 class=" mb-3">Description:@Model.Description</h2>
+
+    </div>
+    <img class="d-block col-5" style="float:right" width="200" height="400"
+         src="@Model.ImageUrl" alt="Card image cap">
+</div>
